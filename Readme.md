@@ -8,12 +8,9 @@
 - [Features](#features)
 - [Getting Started](#getting-started)
 - [APIs](#apis)
-- [Instructions](#instructions)
-- [Demo](#demo)
-- [Screenshots](#screenshots)
+- [Things used](#Things-used)
 - [Technologies Used](#technologies-used)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Objective
 
